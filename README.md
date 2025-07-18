@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Mistry</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+![Image](https://github.com/user-attachments/assets/4e9301ed-2577-4eee-9c34-63b4a2af0eae)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitmistry01" alt="smitmistry01" /></a> </p>
 
 - 🔭 I’m currently working on [Relentix](https://github.com/SmitMistry01/Relentix)
